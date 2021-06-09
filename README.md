@@ -3,3 +3,6 @@
 - **Research Question**: Therefore, we want to build an app and set a reasonable price range. What category and price range should the company choose? 
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
 
+## Data
+- Retrieved from Kaggle ([IOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps), [Android](https://www.kaggle.com/lava18/google-play-store-apps))
+
